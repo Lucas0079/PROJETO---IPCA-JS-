@@ -1,0 +1,33 @@
+Método 5Q's  para montar um algorítimo:
+
+Analise criticamente o problema e descubra:
+(Tente explicar este problema para você mesmo em voz alta e 
+peça mais informações/investigue mais até você 
+compreender completamente o problema.)
+
+
+1. Quais são os dados de entrada necessários?
+2. O que devo fazer com estes dados?
+3. Quais são as restrições deste problema?
+4. Qual é o resultado esperado?
+5. Qual é sequência de passos a ser feitas para 
+chegar ao resultado esperado
+
+1. O USUÁRIO DEVE ESCOLHER 3 OPÇÕES COM NÚMEROS INTEIROS, INFORMANDO PRO SISTEMA
+
+2. DE ACORDO COM AS OPÇÕES ESCOLHIDAS, DADOS ESPECÍFICOS VÃO SER EXIBIDOS. NA OPÇÃO 1, VAI SER EXIBIDO PRO
+USUÁRIO OS SALÁRIOS DO ANO DE 2010 ATÉ 2020. NA OPÇÃO 2, VAI SER EXIBIDO PRO USUÁRIO A INFLAÇÃO IPCA DO ANO DE
+2010 ATÉ 2020. NA OPÇÃO 3, VAI SER EXIBIDO PRO USUÁRIO O SALÁRIO MÍNIMO, A INFLAÇÃO IPCA E A PORCENTAGEM DE
+AUMENTA DO SALÁRIO MÍNIMO( ESSE DEVE SER CÁLCULADO) DOS  ANOS APARTIR DE 2010 ATÉ 2020.
+
+3. OS SALÁRIOS DEVEM SER EXIBIDOS EM FORMATO REAL(2 CASAS DECIMAIS, SÍMBOLO DA GRANA E VÍRGULA NO LUGAR DE PONTO)
+   CASO O USUÁRIO INFORME UM NÚMERO INVÁLIDO O PROGRAMA DEVE INFORMA-LO DISSO 
+   ALINHAR OS DADOS EXIBIDOS
+   
+
+4. DE ACORDO COM AS OPÇÃO ESCOLHIDAS, OS DADOS SEJAM EXIBIDOS DE ACORDO COM O ESPECIFICADO
+
+5. FAZER NO JAVASCRIPT :)
+
+DICA EXTRA - FAÇA POR PARTES, DIVIDA UM GRANDE PROBLEMA EM PROBLEMAS MENORES
+
